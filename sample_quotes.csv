@@ -1,0 +1,4 @@
+supplier_name,unit_price,currency,lead_time,payment_terms,remarks
+NorthStar Components,8.25,USD,4 weeks,Net 30,Includes freight to warehouse
+Pacific Alloy Works,7.95,USD,6 weeks,Net 45,Lowest unit price in this batch
+Summit Industrial,9.10,USD,3 weeks,50% advance balance on delivery,Fastest lead time
