@@ -145,14 +145,3 @@ NorthStar Components,8.25,USD,4 weeks,Net 30,Includes freight to warehouse
 ├── sample_quotes.csv
 └── README.md
 ```
-
-## Interview Talking Points
-
-- **Why FastAPI?** Request validation and OpenAPI generation are built in, which speeds development and makes the API easy to demo.
-- **Why separate comparison service?** Keeps business rules out of route handlers and makes the "best quote" logic testable in isolation.
-- **Why Pydantic schemas separate from ORM models?** API contracts stay stable even if persistence changes.
-- **How would you extend this?** Add currency conversion, quote versioning, supplier master data, audit logs, and role-based access for production use.
-
-## License
-
-MIT
